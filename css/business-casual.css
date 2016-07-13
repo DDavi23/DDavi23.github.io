@@ -16,8 +16,7 @@ body {
 .boxNav .logo{
     urlhttps://s-media-cache-ak0.pinimg.com/236x/ab/ef/b5/abefb55288f02cdc67d8a35633913496.jpg
     center center no-repeat;
-    width: 10px;
-    float: left;
+float: left;
 }
 
 
@@ -156,7 +155,12 @@ footer p {
         letter-spacing: 3px;
         color: #fff;
     }
-
+    
+    .twitter{
+        margin: 0;
+        padding: 0 0 40px;
+        text-align: center;
+    
     .navbar {
         border-radius: 0;
     }
