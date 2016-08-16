@@ -1189,6 +1189,7 @@ h6,
   line-height: 1.1;
   color: inherit;
 }
+
 h1 small,
 h2 small,
 h3 small,
@@ -1424,6 +1425,7 @@ ul ol,
 ol ol {
   margin-bottom: 0;
 }
+
 .list-unstyled {
   padding-left: 0;
   list-style: none;
