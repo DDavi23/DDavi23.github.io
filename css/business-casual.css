@@ -203,3 +203,8 @@ footer p {
         clear: both;
     }
 }
+
+.portfolio-img {
+    width: 120px;
+    height: 128px;
+}
